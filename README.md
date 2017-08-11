@@ -6,7 +6,7 @@ A character-level RNN model to classsify protein sequences with variable lengths
 ## Requirements
 
 - Python 3
-- Tensorflow > 1.0.1
+- Tensorflow >= 1.0.1
 
 ## Training
 
